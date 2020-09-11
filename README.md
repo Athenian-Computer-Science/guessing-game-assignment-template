@@ -1,9 +1,9 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
-
+# Guessing Game
 ## Problem Description
-Problem description goes here. 
+Write a guessing game that asks the user to guess a random number. You should plan for multiple scenarios:
+* Correct guess: "Congratulations - you guessed it!"
+* Guess too low: "Sorry, your guess is too low."
+
 
 * Steps to take go here. 
 
