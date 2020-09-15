@@ -1,11 +1,11 @@
 # Guessing Game
 ## Problem Description
 Write a guessing game that asks the user to guess a random number. You should plan for multiple scenarios:
-* Correct guess: "Congratulations - you guessed it!"
-* Guess too low: "Sorry, your guess is too low."
+* Correct guess: Write a message that tells the user their guess was correct. Ideally, include the value of the guess in the response.
+* Guess too low: Write a message telling the user their guess was too low.
+* Guess too high: Write a message telling the user their guess was too high.
 
-
-* Steps to take go here. 
+You may choose whether to give the user a preset number of guesses or let them guess until they type a command to quit
 
 ## Example
 ```
