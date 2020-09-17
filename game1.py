@@ -8,3 +8,4 @@ Use this file to write an "open" version of the game (no test code or defined fo
 "I'm sorry, you are out of guesses."
 
 '''
+# Collaborators: 
